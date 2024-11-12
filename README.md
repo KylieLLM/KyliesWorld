@@ -45,11 +45,11 @@ pnpm i
 pnpm start
 ```
 
-# Customising Eliza
+# Customising Kylie
 
 ### Adding custom actions
 
-To avoid git clashes in the core directory, we recommend adding custom actions to a `custom_actions` directory and then adding them to the `elizaConfig.yaml` file. See the `elizaConfig.example.yaml` file for an example.
+To avoid git clashes in the core directory, we recommend adding custom actions to a `custom_actions` directory and then adding them to the `KylieConfig.yaml` file. See the `KylieConfig.example.yaml` file for an example.
 
 ## Running with different models
 
