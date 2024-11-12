@@ -1,6 +1,6 @@
 # Kylie
 
-<img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+<img src="images/Aspose.Words.03af82bc-70d4-480d-86ff-a00de2239759.001.jpeg" alt="Eliza Banner" width="100%" />
 
 ### [For Chinese Version: 中文说明](./README_CN.md)
 
