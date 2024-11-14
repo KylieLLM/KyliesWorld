@@ -1,6 +1,6 @@
 # venchai
 
-<a href="https://ibb.co/RNdJRLs"><img src="https://i.ibb.co/XDMGcmK/kylie.jpg" alt="kylie" border="0" alt="Kylie Banner" width="100%" />
+<a href= https://ibb.co/5WsdYgt"><img src="https://i.ibb.co/WWBQD4q/yessirrr-pfppppp.jpg" alt="yessirrr-pfppppp" border="0 alt="Kylie Banner" width="100%" />
 
 ### [For Chinese Version: 中文说明](./README_CN.md)
 
